@@ -12,13 +12,13 @@ If you have nodemon on your machine, run
 
     nodemon index.js
 
-2. To convert webpage to image navigate to localhost:8080/screenshot?url=https://pillsof.codes&name=pillsofcodes&format=png.
+2. To convert webpage to image navigate to http://localhost:8080/screenshot?url=https://pillsof.codes&name=pillsofcodes&format=png.
 You can change the query params to as explained below:
     - url='web page address (url)'
     - name='the name you want to give to your image'
     - format='the format you want your image in' **this can either be png or jpeg**
 
-3. To convert webpage to pdf navigate to localhost:8080/pdf?url=https://pillsof.codes&name=pillsofcodes
+3. To convert webpage to pdf navigate to http://localhost:8080/pdf?url=https://pillsof.codes&name=pillsofcodes
 You can change the query params to as explained below:
     - url='web page address (url)'
     - name='the name you want to give to your image'
