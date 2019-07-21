@@ -6,11 +6,11 @@ This is a node js project that uses puppeteer to convert webpage into PDF docume
 
 1. After cloning this repo, navigate to the project directory with terminal or command prompt and run the following command:
 
-    node index.js
+        node index.js
 
-If you have nodemon on your machine, run
+    If you have nodemon on your machine, run
 
-    nodemon index.js
+        nodemon index.js
 
 2. To convert webpage to image navigate to http://localhost:8080/screenshot?url=https://pillsof.codes&name=pillsofcodes&format=png.
 You can change the query params to as explained below:
